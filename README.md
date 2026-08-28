@@ -1,4 +1,3 @@
-<!-- fallback_ZephyrRift_20260828201738_14232 -->
 
 # ZephyrRift
 
